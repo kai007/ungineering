@@ -1,3 +1,5 @@
+https://github.com/kai007/ungineering.git
+
 =====================================================
 =                                                   =
 =                                                   =
@@ -8,11 +10,7 @@
 
 _____________________________________________________
 
-Plaincart is free to use, modify or enchance. Just 
-remember that it's created as an example for
-the shopping cart tutorial in www.phpwebcommerce.com 
-so i disclaim anything if you want to use it on a 
-live site
+Plaincart is free to use, modify or enchance.
 _____________________________________________________
 
 
@@ -32,10 +30,7 @@ INSTALLATION INSTRUCTIONS
     library/config.php.
 
 5.) If you want to accept paypal modify the settings
-    in include/paypal/paypal.inc.php . More information
-    about this paypal stuff can be found in 
-    http://www.phpwebcommerce.com/shop-checkout-process/
-
+    in include/paypal/paypal.inc.php.
 
 
 You can start playing with the shopping cart by
